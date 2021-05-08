@@ -55,7 +55,7 @@ a {
     color: hsl(var(--text-paragraph));
     font-family: var(--font-deca);
     font-size: 0.9rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
     line-height: 2;
 }
 
