@@ -75,6 +75,7 @@ a {
 }
 .card__stats--content {
     color: hsl(var(--text-stat));
+	font-family: var(--font-inter);
     text-transform: uppercase;
     margin-top: 0.5rem;
     letter-spacing: 2px;
