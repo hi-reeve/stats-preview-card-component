@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/zynth17/stats-preview-card-component)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/stats-preview-card-solution-using-only-html-and-css-TykdlBua7)
 - Live Site URL: [Live Site](https://zynth17.github.io/stats-preview-card-component/)
 ### Built with
 
@@ -42,3 +42,4 @@ Users should be able to:
 - Frontend Mentor - [@zynth17](https://www.frontendmentor.io/profile/zynth17)
 - Twitter - [@hi_reeve](https://twitter.com/hi_reeve)
 - Instagram - [@hi_reeve](https://www.instagram.com/hi_reeve/)
+- Github - [zynth17](https://github.com/zynth17)
