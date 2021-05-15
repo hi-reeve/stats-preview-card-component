@@ -13,8 +13,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 		4. [Built with](#built-with)
 	3. [Author](#author)
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -29,6 +27,7 @@ Users should be able to:
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/stats-preview-card-solution-using-only-html-and-css-TykdlBua7)
 - Live Site URL: [Live Site](https://zynth17.github.io/stats-preview-card-component/)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -38,7 +37,7 @@ Users should be able to:
 - Mobile-first workflow
 ## Author
 
-
+- Website -[creeve.me](https://creeve.me)
 - Frontend Mentor - [@zynth17](https://www.frontendmentor.io/profile/zynth17)
 - Twitter - [@hi_reeve](https://twitter.com/hi_reeve)
 - Instagram - [@hi_reeve](https://www.instagram.com/hi_reeve/)
